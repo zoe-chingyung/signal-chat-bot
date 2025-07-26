@@ -18,7 +18,7 @@
     ```
 
 ## 🧪 測試方法
-- 喺 Signal send 一句：「@AIbot 乜係LLM？」
+- 喺 Signal send 一句：「@AI 乜係LLM？」
 - bot 就會 call GPT 回覆你
 
 ## ⚠️ 注意
