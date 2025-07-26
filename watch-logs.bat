@@ -1,0 +1,3 @@
+@echo off
+echo 開始監控日誌（按 Ctrl+C 退出）...
+ssh -o "StrictHostKeyChecking=no" -i "C:\Users\porkb\Downloads\ec2-key-pair.pem" ubuntu@ec2-35-178-1-8.eu-west-2.compute.amazonaws.com "sudo journalctl -u signal-ai-bot -f"

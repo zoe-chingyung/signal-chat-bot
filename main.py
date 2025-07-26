@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 load_dotenv()
-
+# Test deploy - 2025-07-26 version 1.0
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 SIGNAL_API_URL = os.getenv("SIGNAL_API_URL")
