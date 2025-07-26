@@ -82,7 +82,7 @@ def poll_messages():
         print(f"⚠️ 接收訊息錯誤: {e}")
 
 if __name__ == "__main__":
-    print("🤖 AI Bot 開始監聽 Signal 群組訊息...\n")
+    print("Signal AI Bot started - version 1.1")  
     while True:
         poll_messages()
         time.sleep(3)
