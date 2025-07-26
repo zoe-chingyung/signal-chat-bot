@@ -3,6 +3,8 @@
 
 一個簡單用 `signal-cli` + `OpenAI GPT` 嘅 Signal AI 自動回覆機器人。
 
+I'm building a Signal group chat AI bot that acts as a smart assistant for group conversations. Once added to a group, the bot can interact with all members and help manage group activities. It works like a digital group keeper — handling tasks like booking venues, sending meeting reminders, and helping with group coordination. Instead of relying on one person to keep track of everything, the AI supports the whole group in staying organized and on track.
+
 ## 🛠 安裝步驟
 
 1. 安裝 `signal-cli` 並完成註冊（用你自己電話號碼）
